@@ -16,6 +16,11 @@ public class lambu {
 	{
             	String res =v.show();	
 	            System.out.println(res);
+System.out.println(res);
+System.out.println(res);
+System.out.println(res);
+System.out.println(res);
+System.out.println(res);
 	}
 	
 	public static void main(String[] args){
